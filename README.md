@@ -7,3 +7,4 @@ Silahkan gunakan format berikut: <br>
 
 Berikut adalah daftar Volunteer yang diterima: 
 * Sahya alea, [oo.or.id](https://oo.or.id).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-ad/).
